@@ -1,4 +1,11 @@
-### Hi there 👋
+
+
+<img align="right" alt="GIF" height="300px"  src="https://i.pinimg.com/originals/c3/93/30/c39330111be00611c81d04ffcd2fc65f.gif" />
+
+### Hi There! I'm Timothy!
+- 🔭 I’m currently working on backend development projects.
+- 🌱 I’m currently learning Go, Ruby on Rails, and helping tech community through my [writing](https://medium.com/@shubhamkrai123).
+- 👯 I’m willing to collaborate on building communitites, and research projects.
 
 <!--
 **TimG27/timg27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
