@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="300px"  src="https://i.pinimg.com/originals/c3/93/30/c39330111be00611c81d04ffcd2fc65f.gif" style="padding: 0px 0px 0px 50px"/>
 
 ### 👋 Hi There!
-<p style="text-align:justify"> I'm Timothy, a senior undergraduate Computer Science student from India, and I'm absolutely thrilled you're on this page! I have some experience working in Deep Learning and I'm looking forward to diving deeper into AI and image processing. I'm passionate about programming and computer science research, and I'm eager to learn from everyone! </p>
+I'm Timothy, a senior undergraduate Computer Science student from India, and I'm absolutely thrilled you're on this page! I have some experience working in Deep Learning and I'm looking forward to diving deeper into AI and image processing. I'm passionate about programming and computer science research, and I'm eager to learn from everyone!
 
 - 🔭 I’m currently working on a senior thesis focussed on image denoising techniques.
 - 🌱 Check out my CV [here](https://timg27.github.io/)!
