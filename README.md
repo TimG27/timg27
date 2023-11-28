@@ -1,7 +1,7 @@
 
 <p align="center"> <img align="centre" alt="GIF" height="150px" width = "1000px" src="images/banner.jpg" /> </p>
 
-<img align="right" alt="GIF" height="300px"  src="https://i.pinimg.com/originals/c3/93/30/c39330111be00611c81d04ffcd2fc65f.gif" style="margin:50px 0px"/>
+<img align="right" alt="GIF" height="300px"  src="https://i.pinimg.com/originals/c3/93/30/c39330111be00611c81d04ffcd2fc65f.gif" style="margin:100px 0px"/>
 
 ### 👋 Hi There!
 I'm Timothy, a senior undergraduate Computer Science student from India, and I'm absolutely thrilled you're on this page! I have some experience working in Deep Learning and I'm looking forward to diving deeper into AI and image processing. I'm passionate about programming and computer science research, and I'm eager to learn from everyone!
