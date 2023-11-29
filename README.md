@@ -6,7 +6,7 @@
 ### 👋 Hi There!
 I'm Timothy, a senior undergraduate Computer Science student from India, and I'm absolutely thrilled you're on this page! I have some experience working in Deep Learning and I'm looking forward to diving deeper into AI and image processing. I'm passionate about programming and computer science research, and I'm eager to learn from everyone!
 
-- 🔭 I’m currently working on a senior thesis focussed on image denoising techniques.
+- 🔭 I’m currently working on a senior thesis focused on image denoising techniques.
 - 🌱 Check out my CV [here](https://timg27.github.io/)!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/timothyg27" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="timothyg27" height="30" width="30" /></a>
